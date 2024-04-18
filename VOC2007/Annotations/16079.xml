@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>16079.jpg</filename>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>boat</name>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>75</ymin>
+            <xmax>61</xmax>
+            <ymax>108</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <bndbox>
+            <xmin>113</xmin>
+            <ymin>102</ymin>
+            <xmax>128</xmax>
+            <ymax>121</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <bndbox>
+            <xmin>164</xmin>
+            <ymin>64</ymin>
+            <xmax>175</xmax>
+            <ymax>85</ymax>
+        </bndbox>
+    </object>
+</annotation>

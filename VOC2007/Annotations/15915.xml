@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>15915.jpg</filename>
+    <size>
+        <width>256</width>
+        <height>256</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>boat</name>
+        <bndbox>
+            <xmin>135</xmin>
+            <ymin>71</ymin>
+            <xmax>165</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>boat</name>
+        <bndbox>
+            <xmin>27</xmin>
+            <ymin>158</ymin>
+            <xmax>56</xmax>
+            <ymax>181</ymax>
+        </bndbox>
+    </object>
+</annotation>
